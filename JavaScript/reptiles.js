@@ -1,5 +1,6 @@
 // reptiles.js by Gorav S. - @goravson
-var sounds = [
+// changing var to const to follow best practices by Ebrahim Al-basry
+const sounds = [
   new Audio("Sounds/reptile/lizard.mp3"),
   new Audio("Sounds/reptile/snake.mp3"),
   new Audio("Sounds/reptile/turtle.mp3"),
@@ -7,7 +8,9 @@ var sounds = [
   new Audio("Sounds/reptile/chameleon.mp3"),
   new Audio("Sounds/reptile/beardedDragon.mp3"),
 ];
-var img = document.querySelectorAll('img:not(.rudy)');
+// changing var to const to follow best practices by Ebrahim Al-basry
+
+const img = document.querySelectorAll('img:not(.rudy)');
 
 img.forEach(function(image, i) {
   image.addEventListener('click', function(e) {
