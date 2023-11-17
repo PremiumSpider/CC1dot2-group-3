@@ -1,0 +1,90 @@
+
+html {
+  height: 100%;
+  width: 100%;
+}
+/* This style page associated with mammals.html and script.js coded by Don Caplon */
+body {
+  /* Please don't change the background color since the part of the bird pics are transparent in the eyes */
+  background-color: #d7edee;
+}
+
+
+/* MAMMALS CSS */
+.special {
+  background-color: #ffffff; /* White */
+  border: 4px solid black;
+  color: black;
+  padding: 8px 36px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.greenB {
+  background-color: #4CAF50; /* Green */
+  border: 4px solid black;
+  color: white;
+  padding: 8px 36px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.redB {
+  background-color: #ff0000; /* Orange */
+  border: 4px solid black;
+  color: white;
+  padding: 8px 36px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.grayB {
+  background-color: #808080; /* Gray */
+  border: 4px solid black;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.brownB {
+  background-color: #804000; /* Brown */
+  border: 4px solid black;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.blueB {
+  background-color: #0080ff; /* Blue */
+  border: 4px solid black;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.orangeB {
+  background-color: #ff8040; /* Orange */
+  border: 4px solid black;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
